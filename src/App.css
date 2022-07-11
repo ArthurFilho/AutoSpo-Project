@@ -53,18 +53,18 @@ input{
   border: none;
 }
 .car{
-height: 688px;
-width: 50%;
-display: flex;
-float: right;
-object-fit: cover;
+  height: 688px;
+  width: 50%;
+  display: flex;
+  float: right;
+  object-fit: cover;
 }
 .field{
   padding-top: 15px;
   width: 100%;
   font-family: 'Poppins', sans-serif;
 font-family: 'Righteous', cursive;
-font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Mono', monospace;  
   font-size: 14px;
   font-weight: 600;
   line-height: 17px;
