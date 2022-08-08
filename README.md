@@ -11,4 +11,4 @@
 
 
 <h1> Descrição </h1>
-<p> This project aims to generate images at the click of a button, the images are being taken from an api and will be randomly requested when pressing the button... 🚀</p>
+<p> I made a project that will work with authentication to simulate a car website...... 🚀</p>
