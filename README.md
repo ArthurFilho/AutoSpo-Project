@@ -11,4 +11,4 @@
 
 
 <h1> Descrição </h1>
-<p> I made a project that will work with authentication to simulate a car website...... 🚀</p>
+<p> I made a project that will work with authentication to simulate a car website... 🚀</p>
