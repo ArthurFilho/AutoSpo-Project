@@ -5,7 +5,6 @@
 
 <h2> O que foi utilizado 💻 </h2>
 
-- [AXIOS]()
 - [CSS]()
 - [REACT.JS]()
 
